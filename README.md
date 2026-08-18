@@ -1,6 +1,3 @@
-Here's the README rewritten in a more natural, personal voice — same content and structure, just reads less like generated documentation.
-
-markdown
 # GenAR Challenge — PADER Report Generator (Bisoprolol)
 
 ## What this is
