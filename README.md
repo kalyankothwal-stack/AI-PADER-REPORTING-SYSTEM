@@ -45,7 +45,7 @@ Run it locally with:
 uv run streamlit run app.py
 ```
 
-Live demo: [add deployed URL here once deployed]
+Live demo: [https://ai-pader-reporting-system-mdbchavah4nqtumcxegfbn.streamlit.app/]
 
 ## Architecture
 
