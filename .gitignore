@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Environment variables (secrets)
+.env
+
+# The original assessment dataset - can't be redistributed publicly,
+# per the Data Usage Notice that came with the assessment
+data/
+
+# Streamlit local secrets (only relevant if I add one for deployment later)
+.streamlit/secrets.toml
+
+# Temp file the web app creates when generating the demo report
+demo_data_temp.xlsx
